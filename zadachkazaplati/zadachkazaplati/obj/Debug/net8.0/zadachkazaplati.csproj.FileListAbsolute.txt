@@ -1,0 +1,14 @@
+C:\Users\MEGA\Documents\10zh\zadachkazaplati\zadachkazaplati\bin\Debug\net8.0\zadachkazaplati.exe
+C:\Users\MEGA\Documents\10zh\zadachkazaplati\zadachkazaplati\bin\Debug\net8.0\zadachkazaplati.deps.json
+C:\Users\MEGA\Documents\10zh\zadachkazaplati\zadachkazaplati\bin\Debug\net8.0\zadachkazaplati.runtimeconfig.json
+C:\Users\MEGA\Documents\10zh\zadachkazaplati\zadachkazaplati\bin\Debug\net8.0\zadachkazaplati.dll
+C:\Users\MEGA\Documents\10zh\zadachkazaplati\zadachkazaplati\bin\Debug\net8.0\zadachkazaplati.pdb
+C:\Users\MEGA\Documents\10zh\zadachkazaplati\zadachkazaplati\obj\Debug\net8.0\zadachkazaplati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MEGA\Documents\10zh\zadachkazaplati\zadachkazaplati\obj\Debug\net8.0\zadachkazaplati.AssemblyInfoInputs.cache
+C:\Users\MEGA\Documents\10zh\zadachkazaplati\zadachkazaplati\obj\Debug\net8.0\zadachkazaplati.AssemblyInfo.cs
+C:\Users\MEGA\Documents\10zh\zadachkazaplati\zadachkazaplati\obj\Debug\net8.0\zadachkazaplati.csproj.CoreCompileInputs.cache
+C:\Users\MEGA\Documents\10zh\zadachkazaplati\zadachkazaplati\obj\Debug\net8.0\zadachkazaplati.dll
+C:\Users\MEGA\Documents\10zh\zadachkazaplati\zadachkazaplati\obj\Debug\net8.0\refint\zadachkazaplati.dll
+C:\Users\MEGA\Documents\10zh\zadachkazaplati\zadachkazaplati\obj\Debug\net8.0\zadachkazaplati.pdb
+C:\Users\MEGA\Documents\10zh\zadachkazaplati\zadachkazaplati\obj\Debug\net8.0\zadachkazaplati.genruntimeconfig.cache
+C:\Users\MEGA\Documents\10zh\zadachkazaplati\zadachkazaplati\obj\Debug\net8.0\ref\zadachkazaplati.dll
