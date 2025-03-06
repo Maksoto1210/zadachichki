@@ -1,0 +1,7 @@
+C:\Users\MEGA\Desktop\zadachka1\zadachka1\bin\Debug\zadachka1.exe.config
+C:\Users\MEGA\Desktop\zadachka1\zadachka1\bin\Debug\zadachka1.exe
+C:\Users\MEGA\Desktop\zadachka1\zadachka1\bin\Debug\zadachka1.pdb
+C:\Users\MEGA\Desktop\zadachka1\zadachka1\obj\Debug\zadachka1.csproj.AssemblyReference.cache
+C:\Users\MEGA\Desktop\zadachka1\zadachka1\obj\Debug\zadachka1.csproj.CoreCompileInputs.cache
+C:\Users\MEGA\Desktop\zadachka1\zadachka1\obj\Debug\zadachka1.exe
+C:\Users\MEGA\Desktop\zadachka1\zadachka1\obj\Debug\zadachka1.pdb
